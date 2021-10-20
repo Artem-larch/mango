@@ -53,9 +53,9 @@
 
     <script>
         window.addEventListener('click', e => {
-            const red = Math.round(Math.random()<255)
-            const green = Math.round(Math.random()<255)
-            const blue = Math.round(Math.random()<255)
+            const red = Math.round(Math.random()*255)
+            const green = Math.round(Math.random()*255)
+            const blue = Math.round(Math.random()*255)
 
             e.target.style.background = `rgb(${red},${green},${blue})`
 
