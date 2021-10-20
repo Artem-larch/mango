@@ -1,2 +1,3 @@
-# mango
-Mango is a fruit
+# MANGO 🥭
+Mango is a fruit.
+
